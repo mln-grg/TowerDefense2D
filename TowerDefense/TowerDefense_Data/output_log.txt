@@ -1,0 +1,35 @@
+Mono path[0] = 'E:/EverythingUnity/Unity Stuffs/Completed_Games/TowerDefense/TowerDefense_Data/Managed'
+Mono path[1] = 'E:/EverythingUnity/Unity Stuffs/Completed_Games/TowerDefense/TowerDefense_Data/Mono'
+Mono config path = 'E:/EverythingUnity/Unity Stuffs/Completed_Games/TowerDefense/TowerDefense_Data/Mono/etc'
+PlayerConnection initialized from E:/EverythingUnity/Unity Stuffs/Completed_Games/TowerDefense/TowerDefense_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55046
+Multi-casting "[IP] 192.168.0.102 [Port] 55046 [Flags] 2 [Guid] 1805132719 [EditorId] 240045614 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-2J543B5) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.102:55046]
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   ATI
+    VRAM:     8152 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.269 seconds
+Platform assembly: E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\EverythingUnity\Unity Stuffs\Completed_Games\TowerDefense\TowerDefense_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.510100 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 39cc -> priority: 1 
